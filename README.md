@@ -1,7 +1,7 @@
 # Modbus_Communication_DataLog_APP
 Modbus polling Desktop App
 
-User enters folling information :
+User enters the following information :
 -PLC IP address
 -Starting Register 
 -Amount of Registers they want to poll
